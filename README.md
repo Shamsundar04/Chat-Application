@@ -17,4 +17,4 @@ It allows multiple users to send and receive messages instantly in a clean and r
 # How to Run
 1. Clone the repository  
    bash
-   git clone https://github.com/yourusername/chat-application.git
+   git clone https://github.com/Shamsundar04/Chat-Application.git
